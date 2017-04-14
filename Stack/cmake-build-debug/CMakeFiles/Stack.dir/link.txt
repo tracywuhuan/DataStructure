@@ -1,0 +1,1 @@
+g++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Stack.dir/main.cpp.o CMakeFiles/Stack.dir/Stack.cpp.o  -o Stack 

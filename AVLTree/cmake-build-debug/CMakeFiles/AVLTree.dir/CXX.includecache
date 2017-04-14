@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuhuan/Documents/DataStructure/AVLTree/AVLTree.cpp
+AVLTree.h
+/Users/wuhuan/Documents/DataStructure/AVLTree/AVLTree.h
+iostream
+-
+queue
+-
+
+/Users/wuhuan/Documents/DataStructure/AVLTree/AVLTree.h
+
+/Users/wuhuan/Documents/DataStructure/AVLTree/main.cpp
+iostream
+-
+AVLTree.cpp
+/Users/wuhuan/Documents/DataStructure/AVLTree/AVLTree.cpp
+

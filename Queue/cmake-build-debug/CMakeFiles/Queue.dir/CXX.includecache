@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuhuan/Documents/DataStructure/Queue/Queue.cpp
+iostream
+-
+Queue.h
+/Users/wuhuan/Documents/DataStructure/Queue/Queue.h
+
+/Users/wuhuan/Documents/DataStructure/Queue/Queue.h
+
+/Users/wuhuan/Documents/DataStructure/Queue/main.cpp
+iostream
+-
+Queue.cpp
+/Users/wuhuan/Documents/DataStructure/Queue/Queue.cpp
+

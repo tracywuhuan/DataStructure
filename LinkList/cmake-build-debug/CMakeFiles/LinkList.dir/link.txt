@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/LinkList.dir/main.cpp.o CMakeFiles/LinkList.dir/LinkList.cpp.o  -o LinkList 

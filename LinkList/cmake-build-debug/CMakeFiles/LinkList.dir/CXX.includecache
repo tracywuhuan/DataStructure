@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuhuan/Documents/DataStructure/LinkList/LinkList.cpp
+LinkList.h
+/Users/wuhuan/Documents/DataStructure/LinkList/LinkList.h
+
+/Users/wuhuan/Documents/DataStructure/LinkList/LinkList.h
+iostream
+-
+
+/Users/wuhuan/Documents/DataStructure/LinkList/main.cpp
+iostream
+-
+LinkList.cpp
+/Users/wuhuan/Documents/DataStructure/LinkList/LinkList.cpp
+string
+-
+

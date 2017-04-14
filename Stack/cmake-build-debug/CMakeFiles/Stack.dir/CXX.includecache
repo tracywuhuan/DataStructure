@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuhuan/Documents/DataStructure/Stack/Stack.cpp
+Stack.h
+/Users/wuhuan/Documents/DataStructure/Stack/Stack.h
+iostream
+-
+
+/Users/wuhuan/Documents/DataStructure/Stack/Stack.h
+
+/Users/wuhuan/Documents/DataStructure/Stack/main.cpp
+Stack.cpp
+/Users/wuhuan/Documents/DataStructure/Stack/Stack.cpp
+

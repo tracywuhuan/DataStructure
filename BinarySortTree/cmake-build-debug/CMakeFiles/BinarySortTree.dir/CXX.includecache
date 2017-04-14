@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuhuan/Documents/DataStructure/BinarySortTree/BinarySortTree.cpp
+BinarySortTree.h
+/Users/wuhuan/Documents/DataStructure/BinarySortTree/BinarySortTree.h
+iostream
+-
+queue
+-
+
+/Users/wuhuan/Documents/DataStructure/BinarySortTree/BinarySortTree.h
+
+/Users/wuhuan/Documents/DataStructure/BinarySortTree/main.cpp
+iostream
+-
+queue
+-
+BinarySortTree.cpp
+/Users/wuhuan/Documents/DataStructure/BinarySortTree/BinarySortTree.cpp
+
