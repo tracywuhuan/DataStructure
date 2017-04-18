@@ -1,0 +1,3 @@
+/Users/wuhuan/Documents/DataStructure/Sort/Quick/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuhuan/Documents/DataStructure/Sort/Quick/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuhuan/Documents/DataStructure/Sort/Quick/cmake-build-debug/CMakeFiles/Quick.dir
